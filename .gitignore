@@ -1,0 +1,6 @@
+.sass-cache
+.sass-cache/*
+*.scssc
+*.log
+node_modules/
+public/

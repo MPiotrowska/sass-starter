@@ -1,0 +1,19 @@
+.container {
+  width: 100vw;
+  padding: 80px;
+  margin: 0 auto;
+}
+
+.row {
+  width: 100%;
+  text-align: center;
+  margin: 30px auto;
+}
+
+.column {
+  display: block;
+  text-align: center;
+  @media only screen and (min-width: $tablet) {
+    margin-right: 15px;
+  }
+}
